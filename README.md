@@ -18,3 +18,6 @@ Current Supported notes are: Normal, Lift, Mine, Death. Drain is planned to be a
 Hit Space to play (which probably crashes if no audio is loaded)
 
 One difference is that it includes all notes at the same time. This lags a bit but i think it helps visualize sustains better and shit.
+
+
+# AMONG US
